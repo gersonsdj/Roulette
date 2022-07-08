@@ -1,0 +1,12 @@
+
+.container {
+    margin: 0px;
+}
+
+.hr {
+    padding: 10px;
+}
+
+.card-text {
+    white-space: pre-wrap
+}
